@@ -35,7 +35,7 @@ namespace pMatriculacionOnline
             {
                 System.Windows.Forms.MessageBox.Show(ex.Message);
             }
-            // tu crees?
+
         }
     }
 }
