@@ -1,0 +1,6 @@
+C:\Users\Miguel Lopez\source\repos\DLL2\DLL2\bin\Debug\DLL2.dll
+C:\Users\Miguel Lopez\source\repos\DLL2\DLL2\bin\Debug\DLL2.pdb
+C:\Users\Miguel Lopez\source\repos\DLL2\DLL2\obj\Debug\DLL2.csproj.AssemblyReference.cache
+C:\Users\Miguel Lopez\source\repos\DLL2\DLL2\obj\Debug\DLL2.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Lopez\source\repos\DLL2\DLL2\obj\Debug\DLL2.dll
+C:\Users\Miguel Lopez\source\repos\DLL2\DLL2\obj\Debug\DLL2.pdb

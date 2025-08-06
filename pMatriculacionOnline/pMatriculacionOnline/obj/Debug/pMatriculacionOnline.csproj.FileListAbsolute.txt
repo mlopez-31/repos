@@ -1,0 +1,10 @@
+C:\Users\Miguel Lopez\source\repos\pMatriculacionOnline\pMatriculacionOnline\obj\Debug\pMatriculacionOnline.frmRegistroEstudiantes.resources
+C:\Users\Miguel Lopez\source\repos\pMatriculacionOnline\pMatriculacionOnline\obj\Debug\pMatriculacionOnline.Properties.Resources.resources
+C:\Users\Miguel Lopez\source\repos\pMatriculacionOnline\pMatriculacionOnline\obj\Debug\pMatriculacionOnline.csproj.GenerateResource.cache
+C:\Users\Miguel Lopez\source\repos\pMatriculacionOnline\pMatriculacionOnline\obj\Debug\pMatriculacionOnline.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Lopez\source\repos\pMatriculacionOnline\pMatriculacionOnline\bin\Debug\pMatriculacionOnline.exe.config
+C:\Users\Miguel Lopez\source\repos\pMatriculacionOnline\pMatriculacionOnline\bin\Debug\pMatriculacionOnline.exe
+C:\Users\Miguel Lopez\source\repos\pMatriculacionOnline\pMatriculacionOnline\bin\Debug\pMatriculacionOnline.pdb
+C:\Users\Miguel Lopez\source\repos\pMatriculacionOnline\pMatriculacionOnline\obj\Debug\pMatriculacionOnline.exe
+C:\Users\Miguel Lopez\source\repos\pMatriculacionOnline\pMatriculacionOnline\obj\Debug\pMatriculacionOnline.pdb
+C:\Users\Miguel Lopez\source\repos\pMatriculacionOnline\pMatriculacionOnline\obj\Debug\pMatriculacionOnline.csproj.AssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\bin\Debug\pBitácora.exe.config
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\bin\Debug\pBitácora.exe
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\bin\Debug\pBitácora.pdb
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\obj\Debug\pBitácora.Properties.Resources.resources
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\obj\Debug\pBitácora.Reasignación_Bitácora.resources
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\obj\Debug\pBitácora.csproj.GenerateResource.cache
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\obj\Debug\pBitácora.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\obj\Debug\pBitácora.exe
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\obj\Debug\pBitácora.pdb
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\bin\Debug\ts.Client.dll
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\bin\Debug\Interfaz.Win.Browser.dll
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\bin\Debug\ts.dll
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\bin\Debug\Syscards.Win.Resources.dll
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\bin\Debug\ts.Client.pdb
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\bin\Debug\ts.Client.dll.config
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\obj\Debug\pBitácora.csproj.CopyComplete
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pBitácora\obj\Debug\pBitácora.csproj.AssemblyReference.cache

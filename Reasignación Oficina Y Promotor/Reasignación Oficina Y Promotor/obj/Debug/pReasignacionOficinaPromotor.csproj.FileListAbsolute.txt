@@ -1,0 +1,22 @@
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\bin\Debug\Reasignación Oficina Y Promotor.exe.config
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\bin\Debug\Reasignación Oficina Y Promotor.exe
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\bin\Debug\Reasignación Oficina Y Promotor.pdb
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\bin\Debug\ts.Client.dll
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\bin\Debug\versionObjetos.dll
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\bin\Debug\Interfaz.Win.Browser.dll
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\bin\Debug\ts.dll
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\bin\Debug\Syscards.Win.Resources.dll
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\bin\Debug\ts.Client.pdb
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\bin\Debug\ts.Client.dll.config
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\bin\Debug\versionObjetos.pdb
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\bin\Debug\versionObjetos.dll.config
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\obj\Debug\Reasignación_Oficina_Y_Promotor.Reasignación_Masiva___Búsqueda_General.resources
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\obj\Debug\Reasignación_Oficina_Y_Promotor.Form1.resources
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\obj\Debug\Reasignación_Oficina_Y_Promotor.Properties.Resources.resources
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\obj\Debug\Reasignación_Oficina_Y_Promotor.Reasignación___Seleccionar_Cuenta_Única.resources
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\obj\Debug\pReasignacionOficinaPromotor.csproj.GenerateResource.cache
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\obj\Debug\pReasignacionOficinaPromotor.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\obj\Debug\pReasignacionOficinaPromotor.csproj.CopyComplete
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\obj\Debug\Reasignación Oficina Y Promotor.exe
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\obj\Debug\Reasignación Oficina Y Promotor.pdb
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\Reasignación Oficina Y Promotor\obj\Debug\pReasignacionOficinaPromotor.csproj.AssemblyReference.cache

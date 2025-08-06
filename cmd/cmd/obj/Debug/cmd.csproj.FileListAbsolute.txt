@@ -1,0 +1,12 @@
+C:\Users\Miguel Lopez\source\repos\cmd\cmd\bin\Debug\cmd.exe.config
+C:\Users\Miguel Lopez\source\repos\cmd\cmd\bin\Debug\cmd.exe
+C:\Users\Miguel Lopez\source\repos\cmd\cmd\bin\Debug\cmd.pdb
+C:\Users\Miguel Lopez\source\repos\cmd\cmd\bin\Debug\DLL1.dll
+C:\Users\Miguel Lopez\source\repos\cmd\cmd\bin\Debug\DLL2.dll
+C:\Users\Miguel Lopez\source\repos\cmd\cmd\bin\Debug\DLL1.pdb
+C:\Users\Miguel Lopez\source\repos\cmd\cmd\bin\Debug\DLL2.pdb
+C:\Users\Miguel Lopez\source\repos\cmd\cmd\obj\Debug\cmd.csproj.AssemblyReference.cache
+C:\Users\Miguel Lopez\source\repos\cmd\cmd\obj\Debug\cmd.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Lopez\source\repos\cmd\cmd\obj\Debug\cmd.csproj.CopyComplete
+C:\Users\Miguel Lopez\source\repos\cmd\cmd\obj\Debug\cmd.exe
+C:\Users\Miguel Lopez\source\repos\cmd\cmd\obj\Debug\cmd.pdb

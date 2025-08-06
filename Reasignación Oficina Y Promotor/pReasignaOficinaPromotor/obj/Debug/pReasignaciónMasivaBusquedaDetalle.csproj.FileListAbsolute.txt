@@ -1,0 +1,17 @@
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\bin\Debug\pReasignaciónMasivaBusquedaDetalle.exe.config
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\bin\Debug\pReasignaciónMasivaBusquedaDetalle.exe
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\bin\Debug\pReasignaciónMasivaBusquedaDetalle.pdb
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\bin\Debug\ts.Client.dll
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\bin\Debug\Interfaz.Win.Browser.dll
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\bin\Debug\ts.dll
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\bin\Debug\Syscards.Win.Resources.dll
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\bin\Debug\ts.Client.pdb
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\bin\Debug\ts.Client.dll.config
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\obj\Debug\pReasignaOficinaPromotor.ReasignaciónMasiva_BúsquedaDetalle.resources
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\obj\Debug\pReasignaciónMasivaBusquedaDetalle.Properties.Resources.resources
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\obj\Debug\pReasignaciónMasivaBusquedaDetalle.csproj.GenerateResource.cache
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\obj\Debug\pReasignaciónMasivaBusquedaDetalle.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\obj\Debug\pReasignaciónMasivaBusquedaDetalle.csproj.CopyComplete
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\obj\Debug\pReasignaciónMasivaBusquedaDetalle.exe
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\obj\Debug\pReasignaciónMasivaBusquedaDetalle.pdb
+C:\Users\Miguel Lopez\source\repos\Reasignación Oficina Y Promotor\pReasignaOficinaPromotor\obj\Debug\pReasignaciónMasivaBusquedaDetalle.UserControl1.resources

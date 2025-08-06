@@ -1,0 +1,14 @@
+C:\Users\Miguel Lopez\source\repos\PRUEBA\PRUEBA\bin\Debug\PRUEBA.exe.config
+C:\Users\Miguel Lopez\source\repos\PRUEBA\PRUEBA\bin\Debug\PRUEBA.exe
+C:\Users\Miguel Lopez\source\repos\PRUEBA\PRUEBA\bin\Debug\PRUEBA.pdb
+C:\Users\Miguel Lopez\source\repos\PRUEBA\PRUEBA\obj\Debug\PRUEBA.Form1.resources
+C:\Users\Miguel Lopez\source\repos\PRUEBA\PRUEBA\obj\Debug\PRUEBA.Properties.Resources.resources
+C:\Users\Miguel Lopez\source\repos\PRUEBA\PRUEBA\obj\Debug\PRUEBA.csproj.GenerateResource.cache
+C:\Users\Miguel Lopez\source\repos\PRUEBA\PRUEBA\obj\Debug\PRUEBA.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Lopez\source\repos\PRUEBA\PRUEBA\obj\Debug\PRUEBA.exe
+C:\Users\Miguel Lopez\source\repos\PRUEBA\PRUEBA\obj\Debug\PRUEBA.pdb
+C:\Users\Miguel Lopez\source\repos\PRUEBA\PRUEBA\bin\Debug\ts.Client.dll
+C:\Users\Miguel Lopez\source\repos\PRUEBA\PRUEBA\bin\Debug\ts.dll
+C:\Users\Miguel Lopez\source\repos\PRUEBA\PRUEBA\obj\Debug\PRUEBA.csproj.CopyComplete
+C:\Users\Miguel Lopez\source\repos\PRUEBA\PRUEBA\bin\Debug\controlesTS.dll
+C:\Users\Miguel Lopez\source\repos\PRUEBA\PRUEBA\obj\Debug\PRUEBA.prueba.resources
